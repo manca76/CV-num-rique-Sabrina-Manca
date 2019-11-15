@@ -1,0 +1,80 @@
+.pictoWidth {
+    width: 2vw;
+    height: 4vh;
+    margin-right: 1vw;
+    
+}
+#imgWidth {
+    width: 40%;
+    position: relative;
+    z-index: 2;
+    box-shadow: 10px 0px 10px 10px rgb(46, 45, 45);
+-webkit-box-shadow: 10px 10px 10px 4px rgb(56, 56, 56);
+}
+#fontTitle {
+    font-family: 'Great Vibes', cursive;
+    font-size: 90px;
+}
+#fontCitation {
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+}
+#quoteWidth {
+    width: 40%;
+    float: right;
+    margin-right: -35%;
+    margin-top: -5%;
+}
+.puces {
+    list-style-type: none;
+}
+.hobbiesWidth {
+    width: 10%;
+    height: 10%;
+}
+#grey {
+    position: absolute;
+    z-index: 1;
+    margin-top: -45%;
+    padding-top: 4%;
+    padding-bottom: 87%;
+}
+#margeGrise {
+    position: absolute;
+    z-index: 1;
+    margin-left: 1%;
+    margin-top: -45%;
+    padding-bottom: 167%;
+}
+.marginTitle {
+    margin-top: 120%;
+}
+.fontTitleh2 {
+    font-family: 'Open Sans Condensed';
+    font-size: 40px;
+}
+.fontText {
+    font-family: 'Open Sans Condensed';
+    font-size: 120%;
+}
+.styleNav {
+    color: black;
+}
+.styleNav:hover {
+    color: white;
+}
+.fontCard {
+    font-family: 'Open Sans Condensed';
+    font-size: 180%;
+    color: white;
+}
+.card-title {
+    font-size: 140%;
+    font-family: 'Open Sans Condensed';
+    font-weight: bold;
+}
+.card-title2 {
+    font-size: 110%;
+    font-family: 'Open Sans Condensed';
+    font-weight: bold;
+}
